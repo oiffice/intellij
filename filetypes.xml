@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="gitignore" type="Ignore file" />
+      <mapping ext="splitpart" type="JSON" />
+      <mapping pattern="README" type="Markdown" />
+      <mapping pattern="node-list" type="PLAIN_TEXT" />
+      <mapping pattern="tokens" type="PLAIN_TEXT" />
+      <mapping pattern=".gitIgnore" type="PLAIN_TEXT" />
+      <mapping pattern="PlacementBasicReport" type="PLAIN_TEXT" />
+      <mapping pattern=".gitIgnored" type="PLAIN_TEXT" />
+      <mapping ext="prperties" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping pattern="20160811104300_drop_campaign_foreignKeyConstraint" type="XML" />
+    </extensionMap>
+  </component>
+</application>
